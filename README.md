@@ -57,7 +57,7 @@ C++ 입문자는 포인터보다 STL/클래스 위주로 진행
 - C++ Primer (pointer & smart pointer section)
 
 <h3> 서적 / 책 Reference </h3>
-1. [https://product.kyobobook.co.kr/detail/S000028165879](https://www.oreilly.com/library/view/understanding-and-using/9781449344535/?utm_source=chatgpt.com)
+1.https://product.kyobobook.co.kr/detail/S000028165879(https://www.oreilly.com/library/view/understanding-and-using/9781449344535/?utm_source=chatgpt.com)
 
 2. https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=33784887&srsltid=AfmBOopMrjLslcHXAYl1kVhlBa4S_-fxEbVwUntlOqn3PuK18epC6zZS&utm_source=chatgpt.com#8994506799_CommentReview
 3. https://www.oreilly.com/library/view/pointers-in-c/9781484269275/?utm_source=chatgpt.com
